@@ -4,6 +4,7 @@
 </script>
 
 <template>
+	Testing the Build and Stuff
 	<RouterView />
 </template>
 
