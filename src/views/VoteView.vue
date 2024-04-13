@@ -1,8 +1,8 @@
 <template>
 	<div class="flex justify-around items-center">
-		<VoteCard class="hover:bg-cyan-700">1</VoteCard>
+		<VoteCard></VoteCard>
 		<div class="w-32 h-32"></div>
-		<VoteCard class="hover:bg-cyan-700">2</VoteCard>
+		<VoteCard></VoteCard>
 	</div>
 </template>
 

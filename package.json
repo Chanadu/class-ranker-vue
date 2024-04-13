@@ -13,9 +13,11 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "firebase": "^10.11.0",
     "tailwind": "^4.0.0",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue-router": "^4.3.0",
+    "vuefire": "^3.1.23"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.8.0",
